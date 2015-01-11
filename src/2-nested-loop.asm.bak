@@ -1,0 +1,21 @@
+	mov r0,#5
+	mov r1,#4
+
+	mov r2,#0
+trans-loop-y:
+	
+	mov r3,#0
+trans-loop-x:
+	
+	print
+	add r3,r3,#1
+	sub r4,r1,r3
+	br r4,$trans-loop-x	
+# end trans-loop-x
+	
+	add r2,r2,#1
+	sub r5,r0,r2
+	br r5,$trans-loop-y
+# end trans-loop-y
+	
+	halt

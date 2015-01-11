@@ -1,0 +1,20 @@
+{
+	"pipelined": true,
+	"n-way": 4,
+	"execution units": {
+		"arithmetic": 6,
+		"vector-arithmetic": 1,
+		"load-store": 1,
+		"branch": 1
+	},
+	"branch prediction": {
+		"type": "always take",
+		"history length": 4,
+		"states": 4
+	},
+	"dependancies": "scoreboard/queue",
+	"renaming": false,
+	"register renaming": false,
+	"log": true,
+	"ins-log": true
+}

@@ -1,0 +1,25 @@
+	
+	mov r1,r0
+	mov r0,#1
+	mov r3,r2
+	mov r2,#1
+	mov r5,r4
+	mov r4,#1
+	mov r7,r6
+	mov r6,#1
+	mov r9,r8
+	mov r8,#1
+	mov r11,r10
+	mov r10,#1
+	mov r1,r0
+	mov r0,#1
+	mov r3,r2
+	mov r2,#1
+	mov r5,r4
+	mov r4,#1
+	mov r7,r6
+	mov r6,#1
+	mov r9,r8
+	mov r8,#1
+	mov r11,r10
+	mov r10,#1

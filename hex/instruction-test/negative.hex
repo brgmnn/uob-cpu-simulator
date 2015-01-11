@@ -1,0 +1,11 @@
+50 03 ff ff ff ff ff ff
+50 04 00 00 00 00 00 01
+50 0b ff ff ff ff ff fe
+50 0f ff ff ff ff ff fd
+50 13 ff ff ff ff ff fc
+50 17 ff ff ff ff ff fb
+50 1b ff ff ff ff ff fa
+50 1f ff ff ff ff ff f9
+50 23 ff ff ff ff ff f8
+50 27 ff ff ff ff ff f7
+00 00 00 00 00 00 00 00
