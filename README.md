@@ -1,6 +1,6 @@
 # CPU Simulator #
 
-![](image/puppy.pgm?raw=true "Puppy")
+![](image/puppy.jpg?raw=true "Puppy")
 
 A full featured processor simulator, which also includes an assembler to
 assemble assembly code for the simulator.
