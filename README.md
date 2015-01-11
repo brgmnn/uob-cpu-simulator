@@ -25,9 +25,8 @@ Run the simulator with `./simulator.py path/to/program.hex`
     instructions).
 * Multiple execution units.
     * Multi-cycle instructions keep execution units busy for a long time.
-    * Different kinds of execution units for: Arithmetic, instruction
-        fetching, branching, floating point etc.
-* Re-order buffer.
+    * Different kinds of execution units for: Arithmetic, fetching, branching,
+        floating point etc.  Re-order buffer.
 * Register renaming.
 * Dynamic branch prediction using either address caching or local branch
     history and states.
